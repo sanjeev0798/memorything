@@ -15,9 +15,8 @@ git clone https://github.com/yourusername/memorything.git
 
 cd memorything
 
-pip install -r requirements.txt
-
 Create a .env file with:
+
 GEMINI_API_KEY=your_google_gemini_api_key
 
 ## Run
