@@ -12,7 +12,9 @@ A web app to generate personalized 3D-printable memorial object ideas using AI.
 ## Setup
 
 git clone https://github.com/yourusername/memorything.git
+
 cd memorything
+
 pip install -r requirements.txt
 
 Create a .env file with:
